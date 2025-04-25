@@ -1,0 +1,3 @@
+- Fine-tuned the LLaMA-3 8B transformer model on the EyeQA dataset to improve ophthalmology QA performance.
+- Utilized Unsloth and PEFT to enable efficient, low-resource fine-tuning of transformer-based architectures.
+- Built the training pipeline using PyTorch, achieving a validation loss of 0.565, for seamless inferences.
